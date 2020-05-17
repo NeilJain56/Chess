@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"chess","c":"chessMain","l":"chessMain()","url":"%3Cinit%3E()"},{"p":"chess","c":"chessMain","l":"fileRankToInt(String)","url":"fileRankToInt(java.lang.String)"},{"p":"chess","c":"chessMain","l":"main(String[])","url":"main(java.lang.String[])"}]
